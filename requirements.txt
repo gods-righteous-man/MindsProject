@@ -1,0 +1,6 @@
+Packages required:
+1. tqdm (command: pip3 install tqdm)
+2. gensim (command: pip3 install -U gensim)
+3. textblob (command: pip3 install textblob)
+4. plotly (command: pip3 install plotly)
+5. pandas (command: pip3 install pandas)
